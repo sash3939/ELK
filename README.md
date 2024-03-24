@@ -23,6 +23,7 @@
 ---
 ### Решение 1. Elasticsearch
 [cluster_name](https://github.com/sash3939/ELK/assets/156709540/73ec000f-a111-4be1-887f-5eb59a9557be)
+[cluster_name console](https://github.com/sash3939/ELK/assets/156709540/b2d172a4-7c82-4b59-a58a-e699670f0c8c)
 
 
 ### Задание 2. Kibana

@@ -27,6 +27,7 @@
 
 [Вопрос, почему так](https://github.com/sash3939/ELK/assets/156709540/a129f948-17e2-41c8-9d9f-18cb65b99a0a)
 Выполнено идентично, как на вебинаре.
+---
 
 ### Задание 2. Kibana
 
@@ -38,7 +39,7 @@
 ### Решение 2. Kibana
 [health](https://github.com/sash3939/ELK/assets/156709540/7a6a3203-03b9-4cb3-935c-4765cee3cf3f)
 
-
+---
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 

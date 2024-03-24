@@ -25,6 +25,8 @@
 [cluster_name](https://github.com/sash3939/ELK/assets/156709540/73ec000f-a111-4be1-887f-5eb59a9557be)
 [cluster_name console](https://github.com/sash3939/ELK/assets/156709540/b2d172a4-7c82-4b59-a58a-e699670f0c8c)
 
+[Вопрос, почему так](https://github.com/sash3939/ELK/assets/156709540/a129f948-17e2-41c8-9d9f-18cb65b99a0a)
+Выполнено идентично, как на вебинаре.
 
 ### Задание 2. Kibana
 
@@ -33,6 +35,9 @@
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 
 ---
+### Решение 2. Kibana
+[health](https://github.com/sash3939/ELK/assets/156709540/7a6a3203-03b9-4cb3-935c-4765cee3cf3f)
+
 
 ### Задание 3. Logstash
 
